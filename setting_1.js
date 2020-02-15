@@ -33,7 +33,7 @@ GM_setValue('dynLevelCoef_BTCUSD', 2.06)
   GM_setValue('diffSafe_ZECUSD', [-100, 100])
   GM_setValue('diffSafe_DASHUSD', [-100, 100])
 
- GM_setValue('maxBalance', 280)
+ GM_setValue('maxBalance', 290)
   GM_setValue('minBalance', 3)
   GM_setValue('stopLossPercent', 10)
   GM_setValue('maxOpenTrades', 1)
