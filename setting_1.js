@@ -1,9 +1,9 @@
 GM_setValue('percentThreshold_BTCUSD', 70)
   GM_setValue('percentThreshold_ETHUSD', 70)
   GM_setValue('percentThreshold_XRPUSD', 90)
-  GM_setValue('percentThreshold_ETCUSD', 90)
-  GM_setValue('percentThreshold_ZECUSD', 80)
-  GM_setValue('percentThreshold_DASHUSD', 80)
+  GM_setValue('percentThreshold_ETCUSD', 70)
+  GM_setValue('percentThreshold_ZECUSD', 70)
+  GM_setValue('percentThreshold_DASHUSD', 70)
 
 GM_setValue('dynLevelCoef_BTCUSD', 2.06)
   GM_setValue('dynLevelCoef_ETHUSD', 1.89)
