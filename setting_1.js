@@ -17,7 +17,7 @@
 
  
   GM_setValue('dynLevelSafe_BTCUSD', 54)
-  GM_setValue('dynLevelSafe_ETHUSD', 54)
+  GM_setValue('dynLevelSafe_ETHUSD', 58)
   GM_setValue('dynLevelSafe_XRPUSD', 54)
   GM_setValue('dynLevelSafe_ETCUSD', 52)
   GM_setValue('dynLevelSafe_ZECUSD', 59)
