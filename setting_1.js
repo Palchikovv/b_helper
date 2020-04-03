@@ -9,7 +9,7 @@
  
   
     GM_setValue('dynLevelCoef_BTCUSD', 1.84)
-  GM_setValue('dynLevelCoef_ETHUSD', 1.88)
+  GM_setValue('dynLevelCoef_ETHUSD', 1.9)
   GM_setValue('dynLevelCoef_XRPUSD', 1.9)
   GM_setValue('dynLevelCoef_ETCUSD', 1.88)
   GM_setValue('dynLevelCoef_ZECUSD', 1.99)
@@ -17,8 +17,8 @@
 
  
   GM_setValue('dynLevelSafe_BTCUSD', 54)
-  GM_setValue('dynLevelSafe_ETHUSD', 58)
-  GM_setValue('dynLevelSafe_XRPUSD', 54)
+  GM_setValue('dynLevelSafe_ETHUSD', 52)
+  GM_setValue('dynLevelSafe_XRPUSD', 52)
   GM_setValue('dynLevelSafe_ETCUSD', 52)
   GM_setValue('dynLevelSafe_ZECUSD', 59)
   GM_setValue('dynLevelSafe_DASHUSD', 54)
