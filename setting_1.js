@@ -22,7 +22,12 @@
   GM_setValue('dynLevelSafe_ZECUSD', 59)
   GM_setValue('dynLevelSafe_DASHUSD', 54)
 
-
+  GM_setValue('diffSafe_BTCUSD', [-100, 100])
+  GM_setValue('diffSafe_ETHUSD', [-100, 100])
+  GM_setValue('diffSafe_XRPUSD', [-100, 100])
+  GM_setValue('diffSafe_ETCUSD', [-100, 100])
+  GM_setValue('diffSafe_ZECUSD', [-100, 100])
+  GM_setValue('diffSafe_DASHUSD', [-100, 100])
 
 GM_setValue('maxBalance', 410)
 GM_setValue('minBalance', 3)
