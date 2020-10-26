@@ -9,7 +9,7 @@
  
   
   GM_setValue('dynLevelCoef_BTCUSD', [1.4, 1.9])
-  GM_setValue('dynLevelCoef_ETHUSD', [1.85, 2.2])
+  GM_setValue('dynLevelCoef_ETHUSD', [1.7, 1.9])
   GM_setValue('dynLevelCoef_XRPUSD', 1.89)
   GM_setValue('dynLevelCoef_ETCUSD', 1.89)
   GM_setValue('dynLevelCoef_ZECUSD', 1.96)
@@ -44,7 +44,7 @@ GM_setValue('minDelayBetweenOrdersSecDelay', [7200, 10800 ])
 GM_setValue('delayLevelToMinOrder', 1.4)
 GM_setValue('delayLevelToStop', 2.5)
 GM_setValue('orderMinDelay', 1)
-GM_setValue('orderMax', 7)
+GM_setValue('orderMax', 5)
 GM_setValue('orderMin', 1)
 GM_setValue('orderRoundCoef', 1)
 GM_setValue('soundON', false)
