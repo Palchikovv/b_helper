@@ -36,12 +36,12 @@ GM_setValue('percentThreshold_AUDCHF', 80)
 GM_setValue('percentThreshold_USDCAD', 80)
 
 GM_setValue('devThresh_AUDCAD', [-0.009, 0.008])//[LONG, SHORT]
-GM_setValue('devThresh_EURNZD', [-0.010, 0.009])
+GM_setValue('devThresh_EURNZD', [-0.012, 0.011])
 GM_setValue('devThresh_EURAUD', [-0.009, 0.008])
 GM_setValue('devThresh_CHFJPY', [-0.009, 0.008])
 GM_setValue('devThresh_USDCHF', [-0.009, 0.008])
 GM_setValue('devThresh_EURUSD', [-0.008, 0.008])
-GM_setValue('devThresh_GBPUSD', [-0.012, 0.012])
+GM_setValue('devThresh_GBPUSD', [-0.012, 0.011])
 GM_setValue('devThresh_AUDCHF', [-0.009, 0.008])
 GM_setValue('devThresh_USDCAD', [-0.009, 0.008])
 
