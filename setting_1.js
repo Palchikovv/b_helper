@@ -24,6 +24,7 @@
 
 GM_setValue('orderSqueezeLimitCur', 0.01)
 
+GM_setValue('percentThreshold_AUDUSD', 80)
 GM_setValue('percentThreshold_AUDCAD', 80)
 GM_setValue('percentThreshold_EURNZD', 99)
 GM_setValue('percentThreshold_EURAUD', 99)
@@ -35,12 +36,12 @@ GM_setValue('percentThreshold_AUDCHF', 99)
 GM_setValue('percentThreshold_USDCAD', 80)
 GM_setValue('percentThreshold_NZDCAD', 99)
 
-GM_setValue('devThresh_AUDCAD', [-0.010, 0.010])//[LONG, SHORT]
+GM_setValue('devThresh_AUDUSD', [-0.008, 0.008])//[LONG, SHORT]
 GM_setValue('devThresh_EURNZD', [-0.012, 0.011])
 GM_setValue('devThresh_EURAUD', [-0.009, 0.009])
 GM_setValue('devThresh_CHFJPY', [-0.008, 0.008])
 GM_setValue('devThresh_USDCHF', [-0.008, 0.008])
-GM_setValue('devThresh_EURUSD', [-0.006, 0.006])
+GM_setValue('devThresh_EURUSD', [-0.007, 0.007])
 GM_setValue('devThresh_GBPUSD', [-0.010, 0.0011])
 GM_setValue('devThresh_AUDCHF', [-0.009, 0.009])
 GM_setValue('devThresh_USDCAD', [-0.008, 0.008])
