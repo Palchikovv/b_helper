@@ -31,7 +31,7 @@ GM_setValue('percentThreshold_USDCHF', 100)
 
 GM_setValue('devThresh_EURUSD', [-0.006, 0.006])
 GM_setValue('devThresh_GBPUSD', [-0.009, 0.009])
-GM_setValue('devThresh_AUDUSD', [-0.008, 0.008])
+GM_setValue('devThresh_AUDUSD', [-0.009, 0.009])
 GM_setValue('devThresh_USDCHF', [-0.009, 0.009])
 
   GM_setValue('diffSafe_BTCUSD', [-100, 100])
