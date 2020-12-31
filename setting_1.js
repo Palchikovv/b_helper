@@ -8,14 +8,14 @@
   GM_setValue('percentThreshold_DASHUSD', 70)
  
   
-  GM_setValue('dynLevelCoef_BTCUSD', [1.74, 2.1])
+  GM_setValue('dynLevelCoef_BTCUSD', [1.84, 2.2])
   GM_setValue('dynLevelCoef_ETHUSD', [2.1, 2.4])
   GM_setValue('dynLevelCoef_XRPUSD', 1.89)
   GM_setValue('dynLevelCoef_ETCUSD', 1.89)
   GM_setValue('dynLevelCoef_ZECUSD', 1.96)
   GM_setValue('dynLevelCoef_DASHUSD', 1.96)
  
-  GM_setValue('dynLevelSafe_BTCUSD', 20)
+  GM_setValue('dynLevelSafe_BTCUSD', 40)
   GM_setValue('dynLevelSafe_ETHUSD', 60)
   GM_setValue('dynLevelSafe_XRPUSD', 50)
   GM_setValue('dynLevelSafe_ETCUSD', 50)
@@ -29,7 +29,7 @@ GM_setValue('percentThreshold_GBPUSD', 99)
 GM_setValue('percentThreshold_AUDUSD', 80)
 GM_setValue('percentThreshold_USDCHF', 100)
 
-GM_setValue('devThresh_EURUSD', [-0.007, 0.007])
+GM_setValue('devThresh_EURUSD', [-0.006, 0.006])
 GM_setValue('devThresh_GBPUSD', [-0.009, 0.009])
 GM_setValue('devThresh_AUDUSD', [-0.009, 0.009])
 GM_setValue('devThresh_USDCHF', [-0.009, 0.009])
