@@ -26,7 +26,7 @@ GM_setValue('orderSqueezeLimitCur', 0.01)
 
 GM_setValue('percentThreshold_EURUSD', 80)
 GM_setValue('percentThreshold_GBPUSD', 99)
-GM_setValue('percentThreshold_AUDUSD', 80)
+GM_setValue('percentThreshold_AUDUSD', 99)
 GM_setValue('percentThreshold_USDCHF', 100)
 
 GM_setValue('devThresh_EURUSD', [-0.006, 0.006])
