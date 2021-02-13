@@ -28,5 +28,5 @@ GM_setValue('percentThreshold_BTCUSD', 80)
   GM_setValue('orderMin', 1)
   GM_setValue('orderRoundCoef', 1)
   GM_setValue('soundON', true)
-  GM_setValue('helperKey', 'default')
+  GM_setValue('helperKey', '5PmC7fJ4ykaYqEb9yFjYV_v3')
 }
