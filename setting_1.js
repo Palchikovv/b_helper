@@ -24,7 +24,7 @@
   GM_setValue('delayLevelToStop', 4)
   GM_setValue('orderUpdate', true)
   GM_setValue('orderPercent', 5)
-  GM_setValue('orderMax', 200)
+  GM_setValue('orderMax', 5)
   GM_setValue('orderMin', 1)
   GM_setValue('orderRoundCoef', 1)
   GM_setValue('soundON', true)
