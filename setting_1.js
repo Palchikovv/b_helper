@@ -18,7 +18,7 @@
   GM_setValue('stopLossPercent', 30)
   GM_setValue('orderSqueezeLimit', 0.1)
   GM_setValue('maxOpenTrades', 1)
-  GM_setValue('minDelayBetweenOrdersSec', [362, 762])
+  GM_setValue('minDelayBetweenOrdersSec', [562, 962])
   GM_setValue('minDelayBetweenOrdersSecDelay', [7200, 10800 ])
   GM_setValue('delayLevelToMinOrder', 2)
   GM_setValue('delayLevelToStop', 4)
