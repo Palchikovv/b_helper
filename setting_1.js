@@ -3,8 +3,8 @@
   GM_setValue('percentThreshold_EURUSD', 80)
   GM_setValue('percentThreshold_GBPUSD', 90)
 
-  GM_setValue('diffPercentThreshold_BTCUSD', [-0.10, 0.10])
-  GM_setValue('diffPercentThreshold_ETHUSD', [-0.10, 0.10])
+  GM_setValue('diffPercentThreshold_BTCUSD', [-0.12, 0.12])
+  GM_setValue('diffPercentThreshold_ETHUSD', [-0.12, 0.12])
   GM_setValue('diffPercentThreshold_EURUSD', [-0.008, 0.008])
   GM_setValue('diffPercentThreshold_GBPUSD', [-0.006, 0.006])
 
