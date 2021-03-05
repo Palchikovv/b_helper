@@ -14,7 +14,7 @@
   GM_setValue('diffAgeThreshold_GBPUSD', [0, 15])
 
   GM_setValue('maxBalance', 2000)
-  GM_setValue('minBalance', 50)
+  GM_setValue('minBalance', 20)
   GM_setValue('stopLossPercent', 30)
   GM_setValue('orderSqueezeLimit', 0.1)
   GM_setValue('maxOpenTrades', 1)
